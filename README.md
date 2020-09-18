@@ -3,7 +3,7 @@
 ## I'm a learner, Eternal student, Developer!
 
 - 🔭 I’m currently working on Python-Django!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently trying to learn everything! just thirsty i guess 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook !
