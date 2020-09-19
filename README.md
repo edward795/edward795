@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Python-Django!
 - 🌱 I’m currently trying to learn everything! just thirsty i guess 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers & content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook !
 
