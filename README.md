@@ -6,7 +6,7 @@
 - 🌱 I’m currently trying to learn everything! just thirsty i guess 🤣
 - 👯 I’m looking to collaborate with other developers & content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to cook !
+- ⚡ Fun fact: I love to cook ! (Be it an application or a delicious lunch! 🤣)
 
 
 
