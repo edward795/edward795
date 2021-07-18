@@ -12,7 +12,7 @@
 
 ### Connect with me:
 <img align="left" alt="edward795 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="edward795 | LinkedIn" width="22px" src="https://www.linkedin.com/in/ayyappadas-g-b-94b989181/" />
+<a href="https://www.linkedin.com/in/ayyappadas-g-b-94b989181/"><img align="left" alt="edward795 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <img align="left" alt="edward795 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
