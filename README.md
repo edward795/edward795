@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Python-Django!
 - 🌱 I’m currently trying to learn Angular! just thirsty i guess 🤣
 - 👯 I’m looking to collaborate with other developers & content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook ! (Be it an application or a delicious lunch! 🤣)
 
 
