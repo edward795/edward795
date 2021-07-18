@@ -21,6 +21,7 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://angular.io/assets/images/logos/angular/angular.png" />
+<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="Terminal" width="26px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="Terminal" width="26px" src="https://icon-library.com/images/c-language-icon/c-language-icon-11.jpg" />
