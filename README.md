@@ -8,6 +8,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook ! (Be it an application or a delicious lunch! 🤣)
 
+## Coding Experience!
+- ⚡ Python - 2000 lines of code
+- ⚡ JavaScript - 1500 lines of code
+
 
 
 ### Connect with me:
