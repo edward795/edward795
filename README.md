@@ -1,6 +1,6 @@
 ### Hi there,I'm Ayyappadas - aka [edward795]
 
-## I'm a learner, Eternal student, Developer!
+## I'm a Learner, Eternal Student, Developer!
 
 - 🔭 I’m currently working on Python (Crazy Python Practitioner) 🤣!
 - 🌱 I’m currently trying to learn Everything! just thirsty i guess 🤣
