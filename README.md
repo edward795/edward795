@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Python (Crazy Python Practitioner)😎!
 - 🌱 I’m currently trying to learn Everything! just thirsty i guess 🤣
 - 👯 I’m looking to collaborate with other developers & content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook ! (Be it an application or a delicious lunch 😋)
 
 ## Coding Experience!
