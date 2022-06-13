@@ -47,8 +47,5 @@
 
 <br />
 <br />
-<h4>Open Source Achievements</h4>
-<a href="https://github.com/edward795?tab=achievements">View Here!</a>
-
 
 ---
