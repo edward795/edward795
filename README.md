@@ -1,4 +1,4 @@
-### Hi there,I'm Ayyappadas - aka [edward795]
+### Hey there,I'm Ayyappadas - aka [edward795]
 
 ## I'm a Learner, Eternal Student, Developer!
 
