@@ -47,5 +47,9 @@
 
 <br />
 <br />
+<br />
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=edward795&show_icons=true&locale=en&layout=compact" alt="edward795" />
+<img src="https://github-readme-stats.vercel.app/api?username=edward795&show_icons=true&locale=en" alt="edward795" />
 
----
+
