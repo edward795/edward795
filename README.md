@@ -2,7 +2,7 @@
 
 ## I'm a Learner, Eternal Student, Developer!
 
-- 🔭 I’m currently working on Python (Crazy Python Practitioner)😎!
+- 🔭 I’m currently working on React Js😎!
 - 🌱 I’m currently trying to learn Everything! just thirsty i guess 🤣
 - 👯 I’m looking to collaborate with other developers & content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
