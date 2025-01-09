@@ -1,6 +1,6 @@
 ### Hey there,I'm Ayyappadas - aka [edward795]
 
-## I'm a LifeLong Learner, Eternal Student, Developer!
+## I'm a Life-Long Learner, Eternal Student, Developer!
 
 - 🔭 I’m currently working on React Js😎!
 - 🌱 I’m currently trying to learn Everything! just thirsty i guess 🤣
