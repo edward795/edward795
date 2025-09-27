@@ -1,16 +1,17 @@
 ### Hey there,I'm Ayyappadas - aka [edward795]
 
-## I'm a Life-Long Learner, Eternal Student, Developer!
+## Lifelong learner, relentless coder, and proud software geek at heart.!
 
-- 🔭 I’m currently working on React Js😎!
-- 🌱 I’m currently trying to learn Everything! just thirsty i guess 🤣
+- 🔭 I’m currently working on Java 😎!
+- 🌱 Learning anything and everything that sparks my curiosity,guess I’m just a knowledge sponge 🤣.
 - 👯 I’m looking to collaborate with other developers & content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook ! (Be it an application or a delicious lunch 😋)
 
 ## Coding Experience!
 - ⚡ Python - 2000 lines of code
 - ⚡ JavaScript - 1500 lines of code
+- ⚡ Java - 1500 lines of code
 
 
 
@@ -23,19 +24,20 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" />
+<img align="left" alt="Java" width="36px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
+<img align="left" alt="Spring" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Terminal" width="26px" src="https://static.javatpoint.com/core/images/java-logo1.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Terminal" width="26px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="Terminal" width="26px" src="https://icon-library.com/images/c-language-icon/c-language-icon-11.jpg" />
+<img align="left" alt="Django" width="26px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
+<img align="left" alt="NodeJs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
+<img align="left" alt="ReactJs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+<img align="left" alt="ExpressJs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
+<img align="left" alt="MongoDb" width="36px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="Cpp" width="26px" src="https://icon-library.com/images/c-language-icon/c-language-icon-11.jpg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
